@@ -4,14 +4,14 @@ API Back-End desenvolvida como projeto acadêmico do curso de Analise e Desenvol
 
 ## Tecnologias utilizadas
 
-Python
-FastAPI
-SQLAlchemy
-Pydantic
-SQLite
-JWT
-Swagger/OpenAPI
-Postman
+- Python
+- FastAPI
+- SQLAlchemy
+- Pydantic
+- SQLite
+- JWT
+- Swagger/OpenAPI
+- Postman
 
 ## Estrutura do projeto
 
